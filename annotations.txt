@@ -1,0 +1,8 @@
+# Enlace para crear librerias en angular
+https://angular.io/cli/generate#library-command
+ 
+# Crear librería
+ng generate library hello --prefix=gl
+
+# Compilar librería
+ng build [PROJECT_NAME]
